@@ -6,3 +6,5 @@ As humans, we use our sense of touch to help us classify and understand objects 
 
 ## Credits
 The data used in this project was collected by the University of Pennsylvania's GRASP lab (PR2 robot which uses two *BioTac* tactile sensor fingertips). The dataset was cleaned by Ben Richardson, a PhD student at the Max Planck Institute for Intelligent Systems and was distributed by Dr Ad Spiers at Imperial College London as part of the Computer Vision and Pattern Recognition module.
+
+This project was co-authored with Mr Yi Teng Voon.
