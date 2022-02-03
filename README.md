@@ -12,6 +12,10 @@ An ensemble of trees (with bagging) was also trained to classify the objects bas
 
 ![conf-matrix](https://github.com/joshsia/haptics-classification/blob/main/results/clustering/elec_confusion_chart.png)
 
+Only 1 out of 24 observations in the test set was wrongly classified. Overall, the results of this project seem to imply that if the objects have very different physical properties, then touch alone can be robust enough to differentiate the two objects. However, for objects that have more similar physical properties such as acrylic and steel vase, it might be challenging for touch alone to perfectly distinguish the objects.
+
+For a more detailed report on the findings of the project, please see [here](https://github.com/joshsia/haptics-classification/blob/main/report_haptics_classification.pdf).
+
 ## Credits
 The data used in this project was collected by the University of Pennsylvania's GRASP lab (PR2 robot which uses two *BioTac* tactile sensor fingertips). The dataset was cleaned by Ben Richardson, a PhD student at the Max Planck Institute for Intelligent Systems and was distributed by Dr Ad Spiers at Imperial College London as part of the Computer Vision and Pattern Recognition module.
 
