@@ -1,5 +1,9 @@
 # haptics-classification
 
+Authors: Joshua Sia, Yi Teng Voon
+
+Date: 2021-03-22
+
 ## About
 
 As humans, we use our sense of touch to help us classify and understand objects that we interact with. Touch is a useful alternative to vision when we can't see any object (due to poor lighting or occlusion) or an object property cannot be identified by sight (e.g. weight). This project investigates whether robots can also identify objects by touch using haptics data such as pressure, vibration, electrode impedances, etc in MATLAB. The objects used in this project are: acrylic, black foam, car sponge, flour sack, kitchen sponge and steel vase.
